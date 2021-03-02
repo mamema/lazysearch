@@ -1,0 +1,18 @@
+<extensions>
+  <details>
+    <title lang="EN">lazysearch</title>
+  </details>
+  <plugins>
+    <plugin name="tlazysearch" version="0.00.1" minTarget="7.5" maxTarget="*">
+      <title lang="EN">lazysearch</title>
+      <desc lang="EN">lazysearch</desc>
+      <url>
+        https://github.com/mamema/lms-trackstat/blob/master/TrackStat-3.3.602.zip
+      </url>
+      <link>hhttps://github.com/mamema/lazysearch</link>
+      <sha>8d04f21bb1f7217dc9244bb47201f994cea9cc11</sha>
+      <creator>mamema</creator>
+      <email>mamema2003@hotmail.com</email>
+    </plugin>
+  </plugins>
+</extensions>
